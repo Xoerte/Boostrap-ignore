@@ -1,0 +1,16 @@
+#contenedor {
+    
+    background-color: #001f3f;
+    border-radius:50px ;
+    height: 500px;
+    margin-top:20px;
+}
+#contenedor-2 {
+background-color: blueviolet;
+height: 500px;
+
+margin-top: 25px;
+border-radius: 50px;
+}
+ 
+
